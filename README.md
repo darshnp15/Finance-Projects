@@ -1,0 +1,1 @@
+This repository contains Python files highlighting the usage of the yfinance library. Some of these files are from my time taking the Intro to Quant Finance DeCal at UCB in Fall 2023, and the rest of these files are projects I have worked on over the years.
